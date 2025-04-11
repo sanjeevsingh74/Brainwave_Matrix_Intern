@@ -44,7 +44,7 @@ Minimize manual reporting and improve efficiency
 
 Based on key sales and performance indicators from the dashboard, here are actionable real-time recommendations to optimize operations, enhance customer satisfaction, and increase profitability:
 
-🛍 1. Focus on High-Performing Categories and Products
+**🛍 1. Focus on High-Performing Categories and Products**
 Insight: Top categories like Technology and Office Supplies consistently generate the highest revenue.
 
 **Recommendation:**
@@ -53,7 +53,7 @@ Invest more in marketing and stock management for these categories.
 
 Run bundle offers or loyalty programs on top-performing products to boost repeat purchases.
 
-🌍 2. Regional Sales Optimization
+**🌍 2. Regional Sales Optimization**
 Insight: Certain regions (e.g., West and East US) show high revenue, while others lag.
 
 Recommendation:
@@ -62,7 +62,7 @@ Increase promotional campaigns and local partnerships in underperforming regions
 
 Reallocate logistics and inventory based on demand heatmaps from the dashboard.
 
-📉 3. Address Underperforming Segments
+**📉 3. Address Underperforming Segments**
 Insight: The Home Office customer segment shows lower profitability compared to Corporate and Consumer.
 
 Recommendation:
@@ -71,7 +71,7 @@ Analyze pricing and service expectations for Home Office buyers.
 
 Offer tailored discounts, webinars, or flexible delivery options for this segment.
 
-🕒 4. Improve Order Processing Time
+**🕒 4. Improve Order Processing Time**
 Insight: Higher shipping delays are noted in certain regions and for specific products.
 
 Recommendation:
@@ -80,7 +80,7 @@ Identify delay patterns using dashboard filters (region, ship mode).
 
 Collaborate with logistics partners to streamline delivery workflows.
 
-💡 5. Product Return & Discount Monitoring
+**💡 5. Product Return & Discount Monitoring**
 Insight: High returns or discounts reduce margins on specific products.
 
 Recommendation:
@@ -89,7 +89,7 @@ Investigate product quality or pricing mismatch issues.
 
 Optimize pricing strategies using A/B testing or competitor analysis.
 
-📈 6. Boost Sales During Low Seasons
+**📈 6. Boost Sales During Low Seasons******
 Insight: Monthly sales trends reveal dips during off-peak months.
 
 Recommendation:
@@ -98,7 +98,7 @@ Launch seasonal promotions or limited-time offers during these periods.
 
 Engage customers via email marketing, highlighting bestsellers and new arrivals.
 
-📊 7. Automate Insights & Reporting
+**📊 7. Automate Insights & Reporting******
 Insight: Manual reporting is time-consuming and prone to error.
 
 Recommendation:
