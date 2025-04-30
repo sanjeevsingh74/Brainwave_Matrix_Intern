@@ -4,6 +4,7 @@ This project presents a comprehensive Sales Dashboard developed using Microsoft 
 
 Objective:
 To design a dynamic, interactive dashboard that offers actionable insights into sales trends, regional performance, product-wise revenue distribution, and customer behavior.
+![Sales_Dashboard image](https://github.com/user-attachments/assets/ab640611-00a0-402e-be86-16af45340878)
 
 **Key Features:**
 **Interactive Visuals:** Utilized slicers and pivot charts for real-time data filtering and quick analysis.
@@ -12,7 +13,7 @@ To design a dynamic, interactive dashboard that offers actionable insights into 
 
 **Time Series Analysis:** Incorporated monthly and quarterly breakdowns to monitor performance trends.
 
-**Product & Category Analysis:****** Identified top-selling and underperforming products and categories.
+**Product & Category Analysis:** Identified top-selling and underperforming products and categories.
 
 **Customer Insights**: Analyzed repeat customers and high-value buyers contributing to revenue growth.
 
