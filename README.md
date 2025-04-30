@@ -18,9 +18,12 @@ To design a dynamic, interactive dashboard that offers actionable insights into 
 **Customer Insights**: Analyzed repeat customers and high-value buyers contributing to revenue growth.
 
 Region-wise Sales Overview: Assessed geographical performance to identify strong and weak markets.
+![Techn](https://github.com/user-attachments/assets/641e4f5d-f2cd-41a8-bdd5-5aa9f7363c5d)
 
 **Tools & Techniques Used:**
 Excel Pivot Tables & Charts
+
+
 
 Slicers and Timelines
 
@@ -56,7 +59,7 @@ Run bundle offers or loyalty programs on top-performing products to boost repeat
 
 **🌍 2. Regional Sales Optimization**
 Insight: Certain regions (e.g., West and East US) show high revenue, while others lag.
-
+![offce](https://github.com/user-attachments/assets/1f82f45d-00f1-4ae8-ba8c-7bc39d3c3ffb)
 Recommendation:
 
 Increase promotional campaigns and local partnerships in underperforming regions.
