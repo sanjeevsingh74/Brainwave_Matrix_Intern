@@ -1,4 +1,4 @@
-# Task -01 - Global Superstore Sales Analysis 
+# Global Superstore Sales Analysis Project
 
 This project presents a comprehensive Sales Dashboard developed using Microsoft Excel for Brainwave Matrix Solutions. The dashboard aims to provide a clear, data-driven view of the company’s sales performance, enabling better decision-making for stakeholders.
 
